@@ -1,0 +1,13 @@
+.inline{
+    display: inline-block;
+}
+.onepart{
+    width: 70%;
+}
+.twopart{
+    width: 25%;
+}
+.listElement{
+    border: 1px solid black;
+    padding: 10px;
+}
